@@ -39,6 +39,7 @@ const popupThemes = {
     title: "text-blue-600",
     highlight: "bg-blue-50 text-blue-900",
     quote: "border-blue-200 bg-blue-50",
+    
   },
 };
 
