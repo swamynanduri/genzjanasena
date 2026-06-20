@@ -5,17 +5,17 @@ import {
   Volume2, VolumeX
 } from "lucide-react";
 
-import aboutCrowd from "/Users/komatla.mr/Downloads/gen z janasena.png";
+import aboutCrowd from "./assets/gen-z-janasena.png";
 import campaignGreen from "./assets/campaign_green.png";
 import campaignEducation from "./assets/campaign_education.png";
 import campaignYouth from "./assets/campaign_youth.png";
 import campaignDigital from "./assets/campaign_digital.png";
 import headerLogo from "./assets/header_logo.jpg";
 import genzVideo from "./assets/genzvideo.mp4";
-import ideologyImage from "/Users/komatla.mr/Downloads/idealogy.JPG";
-import innovationImage from "/Users/komatla.mr/Downloads/innovation.png";
-import revolutionImage from "/Users/komatla.mr/Downloads/revol.JPG";
-import freedomImage from "/Users/komatla.mr/Downloads/freedom.JPG";
+import ideologyImage from "./assets/idealogy.JPG";
+import innovationImage from "./assets/innovation.png";
+import revolutionImage from "./assets/revol.JPG";
+import freedomImage from "./assets/freedom.JPG";
 
 const navItems = ["Home", "About", "Vision", "Innovation", "Campaigns", "Media", "Contact"];
 
