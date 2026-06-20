@@ -12,10 +12,10 @@ import campaignYouth from "./assets/campaign_youth.png";
 import campaignDigital from "./assets/campaign_digital.png";
 import headerLogo from "./assets/header_logo.jpg";
 import genzVideo from "./assets/genzvideo.mp4";
-import ideologyImage from "./assets/idealogy.JPG";
+import ideologyImage from "./assets/idealogy1.png";
 import innovationImage from "./assets/innovation.png";
-import revolutionImage from "./assets/revol.JPG";
-import freedomImage from "./assets/freedom.JPG";
+import revolutionImage from "./assets/revolu.png";
+import freedomImage from "./assets/freedom1.png";
 
 const navItems = ["Home", "About", "Vision", "Innovation", "Campaigns", "Media", "Contact"];
 
